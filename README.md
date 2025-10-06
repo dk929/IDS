@@ -1,8 +1,6 @@
  Mini Intrusion Detection System (IDS) using Scapy
 
 **Project:** Custom lightweight Network IDS for lab use  
-**Author:** Your Name  
-**Repo:** (replace with your GitHub URL)
 
 ---
 
